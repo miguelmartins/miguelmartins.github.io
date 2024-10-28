@@ -21,7 +21,7 @@ repository               : "miguelmartins/miguelmartins.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.JPG"
+  avatar           : "profile_pic.jpg"
   name             : "Miguel L. Martins"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning Researcher"
