@@ -6,16 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![What are good representations?](/images/cat_craddle_dalle.webp){: .align-right width="300px" legend="Hello"}
 🧑🏻‍🔬 CS PhD. student at the University of Porto.
 
 🧠 Interested in incorporating our prior knowledge of the world in modern deep learning methodologies.
 
-🧮 Enthusiastic about everything related to exact sciences. 
+🧮 Enthusiastic about everything related to exact sciences
 
-🗓️ About to start last year of funding coming February 2025. 
+🗓️ About to start last year of funding coming February 2025
 
-🏃‍♂️ Trail runner. 🎮 Videogame aficcionado.  
+🏃‍♂️ Trail runner. 🎮 Videogame aficionado.
+
+
+
+
 
 <!-- Recently I have been interested in looking at this problems from the lense of compressed sensing and inverse imaging and to study implications in self-supervised cases. That is to say, how many guarantess can be guarantee assuming the data may be aptly described with few parameter that may  -->
 

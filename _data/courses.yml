@@ -1,0 +1,13 @@
+- title: "Advanced Machine Learning"
+  description: "An in-depth course on machine learning algorithms and applications."
+  semester: "Fall 2023"
+  link: "/courses/advanced-ml"
+  syllabus: "/files/syllabus-ml.pdf"
+  image: "/images/ml-course.jpg"
+
+- title: "Introduction to Data Science"
+  description: "Fundamentals of data analysis and visualization."
+  semester: "Spring 2024"
+  link: "/courses/intro-ds"
+  syllabus: "/files/syllabus-ds.pdf"
+  image: "/images/ds-course.jpg"
