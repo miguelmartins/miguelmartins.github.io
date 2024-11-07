@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 ![What are good representations?](/images/cat_craddle_dalle.webp){: .align-right width="300px" legend="Hello"}
+
 🧑🏻‍🔬 CS PhD. student at the University of Porto.
 
 🧠 Interested in incorporating our prior knowledge of the world in modern deep learning methodologies.
@@ -17,6 +18,7 @@ redirect_from:
 
 🏃‍♂️ Trail runner. 🎮 Videogame aficionado.
 
+📘 [Extended bio](/bio)
 
 ## News
 
