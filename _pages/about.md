@@ -18,7 +18,12 @@ redirect_from:
 🏃‍♂️ Trail runner. 🎮 Videogame aficionado.
 
 
+## News
 
+- **[06/Nov/2024]** - [Preprint of our submission to IEEE Transactions in Medical Imaging available](https://tinyurl.com/fractalrecalibration).
+- **[29/Oct/2024]** - [Hands on session in heart sound segmentation](/talks/2013-10-29-bip-tutorial).
+- **[26-30/Aug/2024]** - Attended [EUSIPCO 2024](https://eusipcolyon.sciencesconf.org/) and presented our work on [singularity strength recalibration of FCNs](https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001486.pdf).
+- **[06/Set/2023]** - [IEEE JBHI journal accepted on Markov-based Neural Networks for Heart Sound Segmentation](https://ieeexplore.ieee.org/document/10242001)
 
 
 <!-- Recently I have been interested in looking at this problems from the lense of compressed sensing and inverse imaging and to study implications in self-supervised cases. That is to say, how many guarantess can be guarantee assuming the data may be aptly described with few parameter that may  -->
