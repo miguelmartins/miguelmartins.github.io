@@ -25,7 +25,7 @@ author:
   name             : "Miguel L. Martins"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning Researcher"
-  location         : "Porto"
+  #location         : "Porto"
   employer         : "University of Porto"
   uri              : # URL
   email            : "miguelopesmartins@gmail.com" 
