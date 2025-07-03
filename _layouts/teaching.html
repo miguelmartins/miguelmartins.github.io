@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<div class="teaching-courses">
+  {% for course in site.data.courses %}
+    <div class="course">
+      {% if course.image %}
+        <img src="{{ course.image }}" alt="{{ course.title }} image" class="course-image">
+      {% endif %}
+      <h2>{{ course.title }}</h2>
+      <p><strong>Semester:</strong> {{ course.semester }}</p>
+      <p>{{ course.description }}</p>
+      <p>
+        {% if course.link %}
+          <a href="{{ course.link }}">Course Page</a>
+        {% endif %}
+        {% if course.syllabus %}
+          | <a href="{{ course.syllabus }}">Syllabus</a>
+        {% endif %}
+      </p>
+    </div>
+    <hr>
+  {% endfor %}
+</div>
